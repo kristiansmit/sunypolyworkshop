@@ -12,7 +12,7 @@ A single and gate
 Explain how your project works
 A single LeD can be  connected to the ouput
 ## How to test
-
+A single LED power
 Explain how to use your project
 
 ## External hardware
